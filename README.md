@@ -16,7 +16,8 @@ This system enables:
 
 ---
 
-## ⚙️ Requirements
+
+## 🧰 Requirements
 
 The following tools are required on both Linux nodes:
 
@@ -29,9 +30,6 @@ Install them using:
 
 ```bash
 yum install -y nfs-utils samba rsync inotify-tools
-
-![Requirements Screenshot](https://github.com/Dingding-stack/cross-platform-backup/raw/main/requirements.png)
-
 
 
 
