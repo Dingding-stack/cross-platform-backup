@@ -29,7 +29,8 @@ Install them using:
 
 ```bash
 yum install -y nfs-utils samba rsync inotify-tools
-requirements.png
+https://github.com/Dingding-stack/cross-platform-backup/blob/b6900e805e4d7957c294f6dbc8250cafcc32a7da/requirements.png
+
 
 
 
